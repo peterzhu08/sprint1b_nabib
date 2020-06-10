@@ -15,4 +15,6 @@ git remote -v
 pwd
 git push -u origin master
 pwd
+git clone --recurse-submodules
+pwd
 cmd /k
