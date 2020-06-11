@@ -1,5 +1,5 @@
 # NOTE: username:password will expire Nov 20th. Use ""
-curl -u 'peterzhu08':'PASSWORD' https://api.github.com/user/repos -d '{"name":"sprint1d_nabib"}'
+curl -u 'peterzhu08':'SciOly4evr' https://api.github.com/user/repos -d '{"name":"june11CLItest1"}'
 git init
 git clone https://github.com/nahmed3536/sprint1.git
 pwd
